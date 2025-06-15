@@ -1,0 +1,18 @@
+# In CHAT_APP/.gitignore
+
+# Frontend ignores
+/frontend/node_modules
+/frontend/.env
+
+# Backend ignores
+/backend/node_modules
+/backend/.env
+# In CHAT_APP/.gitignore
+
+# Frontend ignores
+/frontend/node_modules
+/frontend/.env
+
+# Backend ignores
+/backend/node_modules
+/backend/.env
